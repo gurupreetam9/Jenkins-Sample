@@ -8,7 +8,7 @@ echo 'I am validating the code'
 }
 stage('compilation') {
 steps{
-echo 'i'm compiling'
+echo 'im compiling'
 }
 }
 stage('Install') {
